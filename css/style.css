@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.menu{
+    max-width: 100%;
+    background-color: black;
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+}
+
+.logo{
+    color: blanchedalmond;
+    width: 30%;
+    padding: 10px;
+}
+
+.menuList{
+    width: 70%;
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.itemList{
+    display: flex;
+    flex-direction: row;
+    color: blanchedalmond;
+    padding: 10px;
+}
+
+body{
+    background: #ffffff
+     
+    }
+h1 { color: #f8fc20;
+      background: #2c2c2c;
+      text-align: center;
+      
+    ;
+  
+    }
+    
+h2, h3, h4, p {
+    text-align: center
+}
+    
+em strong{
+        color:black;
+    }
+h3 strong {
+    background: #ebc805
+
+}
+.box{
+    border: 4px solid #ebc805;
+    width: 50%;
+    margin-left: 27%;
+    border-radius: 9px;
+}
+
+
+
+    
